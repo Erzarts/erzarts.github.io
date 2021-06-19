@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.col-md-4.col-xs-12 .mydetails.slideanim.text-center h99 {
+	margin-left: -100px;
+	margin-right: 6px;
+	padding-right: 35px;
+	/* [disabled]padding-top: 51px; */
+	padding-bottom: 25px;
+	padding-left: 0px;
+	color: #FFFFFF;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-style: normal;
+	text-shadow: 3px 3px 5px #040404;
+	font-size: 255%;
+}
+.col-md-4.col-xs-12 .mydetails.slideanim.text-center div {
+}
